@@ -1,4 +1,4 @@
-![Logo](https://placewaifu.com/image/240/) 
+![Logo](https://placewaifu.com/image/256/) 
 <h1 align="center">Hi There I'm cdex 🤡</h1>
 <h3 align="center">I'm an average JS enjoyer😐</h3>
 
