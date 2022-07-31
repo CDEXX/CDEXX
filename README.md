@@ -10,5 +10,7 @@
 
 - 📫 How to reach me ****candmr642@gmail.com****
 
-GET api.lanyard.rest/v1/users/:967447200609226843
+<div align="center">
+    <a href="candemir.xyz" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/967447200609226843/?theme=dark></a>
+</div>
 
