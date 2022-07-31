@@ -1,4 +1,5 @@
-<img src="https://placewaifu.com/image/1280/250?random=2">
+[aesthetic-wallpaper-200606152743171280x1024](https://user-images.githubusercontent.com/85038074/182043493-71a13496-e7de-4e9d-adbc-b7183177a29d.jpg)
+">
 <h1 align="center">Hi There I'm cdex 🤡</h1>
 <h3 align="center">I'm an average JS enjoyer😐</h3>
 
