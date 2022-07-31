@@ -9,4 +9,6 @@ img src="https://u.cubeupload.com/cdex/thumb19201100068.jpg" width=200
 
 - 📫 How to reach me **candmr642@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=CDEXX)
+
 
