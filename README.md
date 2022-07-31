@@ -1,4 +1,4 @@
-https://api.lorem.space/image/game?w=1280&h=256
+<img src="https://placewaifu.com/image/1280/250?greyscale" />
 <h1 align="center">Hi There I'm cdex 🤡</h1>
 <h3 align="center">I'm an average JS enjoyer😐</h3>
 
