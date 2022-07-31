@@ -1,4 +1,4 @@
-<img src="https://placewaifu.com/image/1280/250?greyscale" />
+https://picsum.photos/1280/25
 <h1 align="center">Hi There I'm cdex 🤡</h1>
 <h3 align="center">I'm an average JS enjoyer😐</h3>
 
