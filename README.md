@@ -1,5 +1,5 @@
-title=logo(https://imgpile.com/i/RZY2Z8) 
-<h1 align="center">Hi there i'm cdex 😐/h1>
+![Logo](https://imgpile.com/i/RZY2Z8) 
+<h1 align="center">Hi there i'm cdex 😐 </h1>
 <h3 align="center">I'm an average JS enjoyer </h3>
 
 
