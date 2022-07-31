@@ -9,6 +9,4 @@
 
 - 📫 How to reach me ****candmr642@gmail.com****
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cdexx&label=Profile%20views&color=ff0000&style=flat" alt="cdexx" /> </p>
