@@ -11,7 +11,7 @@
 - 📫 How to reach me ****onlycdex@gmail.com****
 
 <div align="center">
-    <a href="https://www.candemir.xyz" title="Discord Profile"> <p align="left"> <img src="https://lanyard-profile-readme.vercel.app/api/967447200609226843/?theme=dark"></a>
+    <a href="https://www.s.xyz" title="Discord Profile"> <p align="left"> <img src="https://lanyard-profile-readme.vercel.app/api/967447200609226843/?theme=dark"></a>
 </div>
 
 
