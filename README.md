@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JS, CSS, C#**
 
-- 📫 How to reach me ****candmr642@gmail.com****
+- 📫 How to reach me ****onlycdex@gmail.com****
 
 <div align="center">
     <a href="https://www.candemir.xyz" title="Discord Profile"> <p align="left"> <img src="https://lanyard-profile-readme.vercel.app/api/967447200609226843/?theme=dark"></a>
