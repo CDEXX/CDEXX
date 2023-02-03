@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **nothing yet**
 
-- 🌱 I’m currently learning **CSS, C#, C++**
+- 🌱 I’m currently learning **JS, CSS, C#, C++**
 
 - 📫 How to reach me ****onlycdex@gmail.com****
 
