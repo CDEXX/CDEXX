@@ -1,5 +1,5 @@
 ![Logo](https://user-images.githubusercontent.com/85038074/182043493-71a13496-e7de-4e9d-adbc-b7183177a29d.jpg)
-<h1 align="center">Hi There I'm Berk 🤡</h1>
+<h1 align="center">Hi There I'm Austin 🤡</h1>
 <h3 align="center">I'm an average JS enjoyer😐</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cdexx&label=Profile%20views&color=ff0000&style=flat" alt="cdexx" /> </p>
