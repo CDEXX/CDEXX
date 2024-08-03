@@ -14,4 +14,5 @@
     <a href="https://www.s.xyz" title="Discord Profile"> <p align="left"> <img src="https://lanyard-profile-readme.vercel.app/api/967447200609226843/?theme=dark"></a>
 </div>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/331L2mzSnATjKw0dI6JGXv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
